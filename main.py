@@ -124,5 +124,5 @@ def process_videos(datasource, video_path, results_path):
 
 
 #process_videos('sleep.csv', 'videos/' ,'results/')
-#frames, face, states = sleep_detection('videos/007_awake.mp4', view_detection=True)
+frames, face, states = sleep_detection('videos/007_awake.mp4', view_detection=True)
 
